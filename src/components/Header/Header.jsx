@@ -20,6 +20,10 @@ const navLinks = [
   {
     path: "/contact",
     display: "Contact"
+  },
+  {
+    path: "/chatbot",
+    display: "Chatbot"
   }
 ]
 
